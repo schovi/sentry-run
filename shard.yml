@@ -6,7 +6,7 @@ authors:
 
 dependencies:
   sentry:
-    github: samueleaton/sentry
-    version: ~> 0.3.0
+    github: schovi/sentry
+    version: 0.3.0
 
 license: MIT
